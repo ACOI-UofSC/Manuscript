@@ -1,0 +1,6 @@
+Scripts_Supplementary/*.csv filter=lfs diff=lfs merge=lfs -text
+Scripts_Supplementary/*.m filter=lfs diff=lfs merge=lfs -text
+Scripts_Supplementary/*.mat filter=lfs diff=lfs merge=lfs -text
+Scripts_Supplementary/*.docx filter=lfs diff=lfs merge=lfs -text
+Scripts_Supplementary/*.png filter=lfs diff=lfs merge=lfs -text
+Scripts_Supplementary/*.xlsx filter=lfs diff=lfs merge=lfs -text

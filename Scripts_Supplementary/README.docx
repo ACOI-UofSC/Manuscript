@@ -1,7 +1,7 @@
 These are the key scripts and supplementary files for Jerks are Useful: Extracting pulse rate from wrist-placed accelerometry jerk during sleep in children. Please cite the corresponding manuscript when using these scripts using the citation below:
 
 Weaver, R.G., Chandrashekhar, MVS., Armstrong, B., White III, J., Finnegan, O., Cepni, A., Burkart, S., Beets, M.W., Adams, E.L., de Zambotti, M., Welk, G., Nelakuditi, S., Brown III, D., Pate, R.R., Wang, Y., Ghosal, R., 
-Zhong, Z., Yang, H. (in press). Jerks are Useful: Extracting pulse rate from wrist-placed accelerometry jerk during sleep in children. Sleep.
+Zhong, Z., Yang, H. (in review). Jerks are Useful: Extracting pulse rate from wrist-placed accelerometry jerk during sleep in children. Sleep.
 
 
 Importing_new.m is a script that imports the raw data for Apple, Actigraph, and Kubios, and aligns them to the same start and end times, and creates/saves a Matlab workspace ALL.mat for further analysis. This is the slowest part of the analysis. This should be run first before subsequent analysis.
